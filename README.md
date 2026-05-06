@@ -17,4 +17,4 @@ Automation concepts in cybersecurity
 
 
 Screenshot
-![Code Screenshot](screenshots/code_screenshot.png)
+![Code Screenshot](screenshots/code_Untitled.png)
