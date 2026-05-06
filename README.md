@@ -14,3 +14,7 @@ Python File I/O
 List operations and loops
 Conditional logic
 Automation concepts in cybersecurity
+
+
+Screenshot
+![<img width="1919" height="1079" alt="Untitled" src="https://github.com/user-attachments/assets/52da9fe1-945d-40f4-9970-2bcb144f9e55" />](screenshots/code_screenshot.png)
